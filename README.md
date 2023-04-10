@@ -44,6 +44,8 @@ processing, and music production
 - <a href="https://github.com/AVBalajee">A V Balajee </a>
 - <a href="https://github.com/aswinthumati">T S Aswin </a>
 - <a href="https://github.com/sbalaji02">S Balaji </a>
+- <a href="https://github.com/Harii13">M Hariprasath </a>
+
 
 ## Languages Used:
 [![My Skills](https://skillicons.dev/icons?i=angular,react,html,css,django,nodejs,python,mongodb&perline=10)](https://skillicons.dev)
